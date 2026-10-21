@@ -1,0 +1,129 @@
+{
+  "kind": "folio-site",
+  "version": 1,
+  "id": "5f4dafd5-a234-474d-9247-f1b656bb27cb",
+  "name": "CrystalSMP",
+  "description": "My website — a simple website.",
+  "themeId": "ink",
+  "radius": "soft",
+  "accent": "#0fd294",
+  "updatedAt": 1792539380450,
+  "nav": {
+    "logo": "CRYSTAL SMP",
+    "links": [
+      {
+        "id": "cf04cacb-7288-485c-839c-00f48c049cfc",
+        "label": "",
+        "pageId": "405a5f81-a244-4b66-8c7a-383b6e40445f"
+      }
+    ],
+    "ctaLabel": "Return to main site.",
+    "ctaPageId": "",
+    "ctaUrl": "https://www.crystalshardz.com"
+  },
+  "footer": {
+    "brand": "Crystal Shardz ",
+    "blurb": "Creativity at its peak.",
+    "note": "© 2026 Crystal Shardz"
+  },
+  "pages": [
+    {
+      "id": "405a5f81-a244-4b66-8c7a-383b6e40445f",
+      "title": "Home",
+      "slug": "home",
+      "description": "Welcome to My website.",
+      "blocks": [
+        {
+          "id": "e9e321ce-d52f-4055-bcd1-5ccb0f1bcdca",
+          "type": "logos",
+          "tone": "surface",
+          "heading": "Server IP and Ports",
+          "names": "Bedrock Ip: 209.25.140.16\nBedrock Port: 60492\nJava Ip: crystal-smp.playit.plus\nConsole Add friend: \"CrystalMC#7257\"",
+          "backgroundColor": "#290066"
+        },
+        {
+          "id": "e8a7603f-a72f-4839-8fa8-f918371692a5",
+          "type": "features",
+          "tone": "plain",
+          "heading": "Plugins",
+          "intro": "The server has many plugins them and they're commands/features are listed here.",
+          "items": [
+            {
+              "id": "ad8bdf92-80a5-42c6-a27d-cbd7a8a51af3",
+              "title": "AxGraves",
+              "body": "/death tp, or, /grave tp, also to see all graves do /grave list, or, /death list"
+            },
+            {
+              "id": "87e4a327-e178-46bd-8f4c-bd5a25b353e8",
+              "title": "LandClaims",
+              "body": "You claim land with a golden shovel and can right click the edges after creation to move them. You can use a stick to see who owns a claim.\n/trust, and,\n/unclaim\n"
+            },
+            {
+              "id": "a4c377cf-1c61-4809-90ed-4f207415b8fb",
+              "title": "SkinsRestorer",
+              "body": "/skin menu and /skin favorite"
+            },
+            {
+              "id": "0630f293-06af-4034-be2e-c07bab25590b",
+              "title": "PkBetterItemFrames",
+              "body": "Crouch and sneak click a item frame with shears to make it invisible and break it and replace it to make it visible or crouch click with a brush to restore visibility. Also Crouch click with a glass pane to lock rotation (items can still be removed) break and replace to remove the lock."
+            }
+          ]
+        },
+        {
+          "id": "c4d21773-02e3-4d97-949c-386e8d883da2",
+          "type": "split",
+          "tone": "surface",
+          "eyebrow": "TRAVEL!",
+          "heading": "AtriusXWaystones",
+          "body": "Craft a waystone key and link it to your lodestone. Surround it with ore blocks ranging in different boost amounts. To use waypoints between dimensions use a respawn anchor below the lodestone. Respawn anchor must be powered.",
+          "image": "https://cdn.phototourl.com/member/2026-10-20-67cfad9c-f999-4ba0-b472-7fcefddeff6c.png",
+          "imageAlt": "Picture",
+          "flip": false,
+          "buttonLabel": "",
+          "buttonPageId": "405a5f81-a244-4b66-8c7a-383b6e40445f",
+          "backgroundColor": "#121411"
+        },
+        {
+          "id": "abd738d5-1a0f-4a0b-b06c-20feeaf64d47",
+          "type": "gallery",
+          "tone": "plain",
+          "heading": "Gallery",
+          "images": [
+            {
+              "id": "0f08dfe0-f138-47d5-a55d-63e59100555c",
+              "src": "https://cdn.phototourl.com/member/2026-10-20-663efa1d-28d6-4378-ab1b-edde657ffcdd.png",
+              "alt": "Picture",
+              "caption": ""
+            },
+            {
+              "id": "fe73b2f7-3b44-4f5a-a847-fe089a21d4ee",
+              "src": "https://cdn.phototourl.com/member/2026-10-20-e1d07167-3d73-416e-bf67-35de87389062.png",
+              "alt": "Picture",
+              "caption": ""
+            },
+            {
+              "id": "bb34c9ad-7a61-4347-91de-1feed2af855c",
+              "src": "https://cdn.phototourl.com/member/2026-10-20-5813948b-e6da-4a74-b94b-dcba0066a471.png",
+              "alt": "Picture",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cookieConsent": {
+    "enabled": true,
+    "title": "Your privacy matters",
+    "message": "This website uses essential storage to work properly. You can choose whether to allow optional cookies.",
+    "acceptLabel": "Accept all",
+    "denyLabel": "Deny optional",
+    "essentialLabel": "Essential only",
+    "privacyUrl": "",
+    "position": "bottom-center",
+    "backgroundColor": "#ffffff",
+    "textColor": "#202522",
+    "buttonColor": "#004cff"
+  }
+}
